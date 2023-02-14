@@ -35,7 +35,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me
    
    
 ## Educação
-- Graduação em Análise e Desenvolvimento de Sistemas - [Unipê](https://www.universidadex.com) (2022 - 2024)
 - Curso de Java orientado a objetos completo - [Udemy](https://www.udemy.com) (2022)
 - Curso de API RESTful -AWS, JWT - [Udemy](https://www.udemy.com) (2023)
    

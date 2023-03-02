@@ -11,8 +11,15 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me
   <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  
+          
 
   <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="left" alt="Aws" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+            
+          
   
   <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -33,10 +40,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me
 - [FleetTracker](https://github.com/matheusoaresilva/Rastreamento-veiculos): O projeto FleetTracker permite o cadastro, edição e exclusão de dados de veículos, bem como a adição e consulta de seus respectivos rastreamentos.
            
    
-   
-## Educação
-- Curso de Java orientado a objetos completo - [Udemy](https://www.udemy.com) (2022)
-- Curso de API RESTful -AWS, JWT - [Udemy](https://www.udemy.com) (2023)
    
 ## Contato
 - Email: matheusfilhosoares@outlook.com

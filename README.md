@@ -36,6 +36,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de me
 
 
 ## Projetos
+ - [Register-Person](https://github.com/matheusoaresilva/Register-Person): API RESTful de CRUD de clientes com Spring Boot e H2 Database.
 - [Task application](https://github.com/matheusoaresilva/Task-application): Um aplicativo de gerenciamento de tarefas, onde é possível adicionar, remover, editar e listar tarefas.
 - [FleetTracker](https://github.com/matheusoaresilva/Rastreamento-veiculos): O projeto FleetTracker permite o cadastro, edição e exclusão de dados de veículos, bem como a adição e consulta de seus respectivos rastreamentos.
            

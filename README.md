@@ -1,10 +1,13 @@
    <h1 align="center">Hi 👋, I'm Matheus Soares</h1>
    
 <h3 align="center">I'm a fullstack developer</h3>
+
+<img align="right" alt="coding" width="400" src="https://training.grandioseautomation.com/wp-content/uploads/2021/08/PLC-Programming.gif">
    
    <h3 align="left">Connect with me:</h3>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-91682a229/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +19,11 @@
   <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
    <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-            <img 
+ <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+            
+          
+          
+          
           
           
 

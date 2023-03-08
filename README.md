@@ -39,16 +39,13 @@
 
  </p>
 
-<br></br>
-
-
 <div>
   
 ![](https://github-readme-stats.vercel.app/api?username=matheusoaresilva&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoaresilva&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
    </div>
    
- ![](https://github-readme-streak-stats.herokuapp.com/?user=matheusoaresilva&theme=highcontrast&hide_border=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=matheusoaresilva&theme=highcontrast&hide_border=false)
 
 
 ## Projetos

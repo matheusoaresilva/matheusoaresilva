@@ -2,7 +2,7 @@
    
 <h3 align="center">I'm a fullstack developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://training.grandioseautomation.com/wp-content/uploads/2021/08/PLC-Programming.gif">
+<img align="right" alt="coding" width="300" src="https://training.grandioseautomation.com/wp-content/uploads/2021/08/PLC-Programming.gif">
    
    <h3 align="left">Connect with me:</h3>
 
@@ -38,8 +38,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
 
  </p>
-           
-<br></br>
+
 <br></br>
 
 

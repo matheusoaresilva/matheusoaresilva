@@ -57,5 +57,4 @@
    
 ## Contato
 - Email: matheusfilhosoares@outlook.com
- 
- ![Snake animation](https://github.com/matheusoaresilva/matheusoaresilva/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/matheusoaresilva/matheusoaresilva/blob/output/github-contribution-grid-snake.svg)

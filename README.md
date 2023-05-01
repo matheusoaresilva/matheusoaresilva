@@ -44,15 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=matheusoaresilva&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoaresilva&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
    </div>
-   
-
-
-
-## Projetos
- - [Register-Person](https://github.com/matheusoaresilva/Register-Person): API RESTful de CRUD de clientes com Spring Boot e H2 Database.
-- [Task application](https://github.com/matheusoaresilva/Task-application): Um aplicativo de gerenciamento de tarefas, onde é possível adicionar, remover, editar e listar tarefas.
-- [FleetTracker](https://github.com/matheusoaresilva/Rastreamento-veiculos): O projeto FleetTracker permite o cadastro, edição e exclusão de dados de veículos, bem como a adição e consulta de seus respectivos rastreamentos.
-           
+      
    
    
 ## Contato

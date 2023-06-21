@@ -14,7 +14,7 @@
    String[]skills =
     {
     "Spring", "Java", "Flutter", "Dart", "Javascript", "MySQL", "Postgrees",
-	"Oracle", "Angular"
+	"Oracle"
      };
    
     String[]hobbies =

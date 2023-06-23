@@ -16,16 +16,10 @@
     "Spring", "Java", "Flutter", "Dart", "Javascript", "MySQL", "Postgrees",
 	"Oracle"
      };
-   
-    String[]hobbies =
-    {
-    "Gym", "Games", "Music", "Volunteer work"
-     };
-   
+  
     String studyingNow = "Spring security";
 
     System.out.println ("Skills: " + Arrays.toString (skills));
-    System.out.println ("Hobbies: " + Arrays.toString (hobbies));
     System.out.println ("Studing Now: " + studyingNow);
 ```
 

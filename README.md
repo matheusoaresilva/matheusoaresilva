@@ -13,14 +13,12 @@
    ```
    String[]skills =
     {
-    "Spring", "Java", "Flutter", "Dart", "Javascript", "MySQL", "Postgrees",
+    "Spring", "Java", "Hibernate", "RabbitMQ", "Spring Security"
+	"Flutter", "Dart", "Javascript", "MySQL", "Postgrees",
 	"Oracle"
      };
-  
-    String studyingNow = "Spring security";
 
     System.out.println ("Skills: " + Arrays.toString (skills));
-    System.out.println ("Studing Now: " + studyingNow);
 ```
 
    

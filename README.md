@@ -12,11 +12,11 @@
 
    ```
    String[]skills =
-    {
-    "Spring", "Java", "Hibernate", "RabbitMQ", "Spring Security"
-	"Flutter", "Dart", "Javascript", "MySQL", "Postgrees",
-	"Oracle"
-     };
+   {
+    "Spring", "Java", "Hibernate", "JPA", "Spring Security",
+	"Microservices", "RabbitMQ", "Flutter", "Dart", "Javascript",
+	"MySQL", "Postgrees", "Oracle"
+   };
 
     System.out.println ("Skills: " + Arrays.toString (skills));
 ```
